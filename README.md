@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/assets/logo-placeholder.png" alt="AnkurShree Logo" width="200"/>
+  <img src="docs/assets/logo.svg" alt="AnkurShree Logo" width="220"/>
   <br/>
   <strong>अंकुर श्री</strong>
   <br/>
